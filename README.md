@@ -44,9 +44,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SUVAJITKARMAKAR/SUVAJITKARMAKAR/output/snake.svg" alt="Snake animation" />
-
-###
